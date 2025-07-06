@@ -2,8 +2,16 @@
 
 A modern, full-featured Signature Verification System built with the MERN stack. Effortlessly upload, verify, and manage signatures with a beautiful, user-friendly interface.
 
----
-
+Welcome page
+![6BACB827-EFF1-40DF-941B-4295B1BB947E](https://github.com/user-attachments/assets/fddc42f6-3f97-48fa-acb4-b265ff7ed3c1)
+Verify
+![8134875D-5130-455C-BB84-A872F1E5254E](https://github.com/user-attachments/assets/296b0efe-9894-46dc-9669-97d18f9700bd)
+History
+![DC5B4A28-7BF1-487A-8FEE-9981B49CD917](https://github.com/user-attachments/assets/58ed3408-e51a-4a54-a858-d49ec170a4f4)
+Settings
+![E4B1871B-E4E4-4FB6-8D60-EBA8DF9A4AF3](https://github.com/user-attachments/assets/c0406cd3-d821-4233-bdb1-86fe4c2a3ad9)
+Even u can uplode ur sign gto get verify
+![E4B1871B-E4E4-4FB6-8D60-EBA8DF9A4AF3](https://github.com/user-attachments/assets/e85a62d2-9b1d-4265-a78a-7efceb2c839d)
 ## 🚀 Features
 
 - **Modern Dashboard** with tab navigation (Upload, Verify, History, Settings)
